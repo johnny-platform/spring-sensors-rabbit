@@ -4,7 +4,7 @@
 ```json
 {
   "gitBranch" : "main",
-  "gitUrl" : "https://github.com/johnnyplatform/spring-sensors-rabbit.git",
+  "gitUrl" : "https://github.com/johnny-platform/spring-sensors-rabbit.git",
   "projectName" : "spring-sensors-rabbit",
   "publisherRepository" : "tapdemokb8.azurecr.io/supply-chain/spring-sensors-publisher",
   "title" : "Tanzu Sensor Database"
