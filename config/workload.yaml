@@ -8,6 +8,8 @@ metadata:
     tanzu.app.live.view: true
     tanzu.app.live.view.application.flavours: spring-boot
     tanzu.app.live.view.application.name: spring-sensors
+    tanzu.app.live.view.application.port: 8080
+    tanzu.app.live.view.application.actuator.port: 8081
 spec:
   source:
     git:
